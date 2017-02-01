@@ -26,3 +26,28 @@ Company will pay the price of learning one way or another
 **** Iterate and reflect
 *** bluejeans screensharing
 *** Whiteboard with camera pointed at it
+** Infrastructure as Code
+*** Jearvon Dharrie
+*** Applying Software Engineering Principles to your Infrastructure
+*** Tools don't fix the problem
+Ansible and Chef seem attractive, but don't prevent you from using the
+same practices
+*** Definition
+[[https://en.m.wikipedia.org/wiki/Infrastructure_as_Code]]
+*** Version control provides audit trail and compliance
+*** Style guide
+*** Infrastructure needs refactoring too
+*** How do you get buy in for refactoring
+**** Martin Fowler suggests do it and don't tell them
+**** If you touch it leave it better than you found it
+*** Red, green, refactor; even with boxes running NGINX
+*** Always consider cost / benefits with testing
+*** What tool do you use to test Ansible scripts?
+**** Ansible Playbooks
+**** Server spec for Ansible
+**** Nspec for chef
+**** test kitchen for ansible
+*** Outside in testing Gary Bernhardt
+*** Blackbox testing against staging
+*** CLI interface to control publishing in pipeline
+*** Need champion, e.g. to transition from ansible to Docker kubernetes
