@@ -48,6 +48,7 @@ same practices
 **** Nspec for chef
 **** test kitchen for ansible
 *** Outside in testing Gary Bernhardt
+https://www.youtube.com/watch?v=tdNnN5yTIeM
 *** Blackbox testing against staging
 *** CLI interface to control publishing in pipeline
 *** Need champion, e.g. to transition from ansible to Docker kubernetes
