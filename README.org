@@ -52,3 +52,91 @@ https://www.youtube.com/watch?v=tdNnN5yTIeM
 *** Blackbox testing against staging
 *** CLI interface to control publishing in pipeline
 *** Need champion, e.g. to transition from ansible to Docker kubernetes
+* Meeting <2017-02-28 Tue>
+** ETE Opportunity Scholarship
+** A Better Technical Interview
+*** Sam Jones
+*** Test Double
+*** Collective interview
+You don't work in isolation.
+
+Don't interview in isolation.
+*** Elements of a good interview
+**** Highlight Candidate Experience
+**** Reflect the Job
+**** Give Feedback
+*** If you value communication state it
+Don't just evaluate communication skills without conveying
+expectations.
+*** Solidify company values
+To try to reduce influence of subjective impressions on interviewer.
+*** Reframe No as Not Yet
+*** Create an advocate for the candidate
+**** Clarifies hiring process and values of company
+**** Serves as intermediary among interviewers
+Try to cut down on [[https://en.m.wikipedia.org/wiki/Anchoring][anchoring bias]]
+*** Learn something from a candidate when pairing
+
+** Crafted hiring for diversity
+*** Christopher Litsinger
+*** @x0pherl
+*** Goal to hire the most diverse team possible
+*** Empathy among team makes team good at solving problems
+*** Bias from all-men airbag design teams
+*** Pipeline problem
+Greater than half of people coming out of US colleges and universities
+Computer Science programs are white men.
+**** Most underrepresented population is black females
+**** H1-B visas bring in talent from rest of world
+*** What can industry do to include more people
+*** Hiring may be some of the source of the problem
+*** Interviewing.io
+**** Interview practicing platform
+**** [[http://blog.interviewing.io/][Blog]]
+*** Can't measure false negatives in interview process
+*** Methods of interviewing doesnt predict performance on the job
+*** Check the facade you present as if doing opposition research on yourself
+*** Contradictory hiring requirements
+Gender disparity in self-selection to apply for these jobs
+**** Apply like a mediocre white guy
+*** Avoid saying things are requirements if they aren't requirements
+**** Bring 2 of the following 5 skills
+**** s/requirement/preferred qualification/
+*** Be clear and explicit
+At the bottom of every job interview:
+
+#+BEGIN_QUOTE
+We are actively seeking a diverse set of candidates to join our team,
+if you're not sure if you qualify for this position please err on the
+side of applying
+#+END_QUOTE
+*** Define values
+**** Empathy
+**** Ability to learn
+**** Enthusiasm for the job
+**** Raw technical skills
+*** Craft an interview process based on those values
+*** Resumes are a bias quagmire
+*** Added psychological test for empathy
+*** Tests on candidates' own system; open internet
+*** Pairing in interview process selects for people who have paired before
+*** Blind alley code exercise
+**** Get candidate to have to check ego and consider alternative solution
+*** Wide-band delphi estimation for candidate evaluation
+**** Score against identified values
+**** +2: I will be strong advocate for hiring this candidate
+**** +1: I'm ok if we hire this candidate
+**** -1: I'm ok if we don't hire this candidate
+**** -2: I will be strong advocate for not hiring this candidate
+**** No neutral value!
+People will tend to pick the neutral value.  You want their feedback
+on the candidate they interviewed, so don't let them pick a neutral
+value.
+*** Made mistakes
+*** Recruiting through twitter or personal networks
+*** Target for diversity?
+**** Goal: build the most diverse team in Comcast
+**** Can't really measure outcome
+*** Results of increasing diversity
+**** Some more conversations about accessibility
+**** How do you make an API accessible?
